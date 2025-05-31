@@ -27,9 +27,9 @@ Candle-Sim/
 
 1. Clone or download this repository
 2. Open `index.html` in any modern web browser OR:
-3. On macOS, run 'open index.html' in the Terminal
-4. On Windows (Command Prompt), run 'start index.html' or (Powershell) 'ii index.html'
-5. On Linux, run 'xdg-open index.html'
+3. On macOS, run `open index.html` in the Terminal
+4. On Windows (Command Prompt), run `start index.html` or (Powershell) `ii index.html`
+5. On Linux, run `xdg-open index.html`
 
 ## 📄 License
 
